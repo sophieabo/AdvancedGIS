@@ -1,4 +1,4 @@
-#DEMO map for VISITPgh
+# DEMO map for VISITPgh
 
 see the map below... 
 
