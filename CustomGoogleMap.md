@@ -27,4 +27,4 @@ Perhaps something I would discuss with the BikePgh team for the next iteration o
 
 Overall, this was a great assignment to experiment with easy-to-use mapping and design tools! 
 
-[Back to the AdvancedGIS homepage](/README.md). 
+[Back to the AdvancedGIS homepage](/README.md)
