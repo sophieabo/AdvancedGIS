@@ -4,15 +4,15 @@ In this assignment, I created a custom Google-Map for a local non-profit BikePgh
 
 ![BikePgh Webiste](BikePgh.png)
 
-For this initial map-creation round, my goal was to make a map that showcases the color palette and “feel” of the BikePgh map, while maintaining good map-making and design principles. In future iterations of the map, I would hope to integrate BikePgh’s specific functionality goals into the design. Some of the design decisions I made in this first iteration include changing:
+For this initial map-creation round, my goal was to make a map that showcases the color palette and “feel” of the BikePgh map, while maintaining good map-making and design principles. In future iterations of the map, I would hope to integrate BikePgh’s specific organizational goals into the design. Some of the design decisions I made in this first iteration included changing:
 - the labels to Heavy Metal (#373934) for maximal readability
 - the urban land to the light green (#B1A559) as fairly neutral base layer
 - the natural landscape/parks to the dark green (#5D5830) to mimic natural green space
 - the points of interest to the gray (#82808D) to contrast the green background
 - the highways to the yellow (#F8CE5E) to majorly contrast the green background
-- the arterial roads to the dark green (#5D5830) 
-- the local roads to the gray (#82808D) 
-- the transit lines to the light blue (#BCCDDD)
+- the arterial roads to the dark green (#5D5830) to differentiate from the highways and local roads
+- the local roads to the gray (#82808D) to differentiate from the highway and arterial roads
+- the transit lines to the light blue (#BCCDDD) to differenitate from the roads
 - and the water to the light blue (#BCCDDD) as well to represent water 
 
 Below are 3 screenshots of the custom map at varying scales. The JSON code for the map can be found [here](/CustomGoogleMapCode.json). 
