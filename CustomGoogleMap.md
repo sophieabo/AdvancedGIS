@@ -17,8 +17,10 @@ And the water to the light blue (#BCCDDD) as well to represent water
 
 Below are 3 screenshots of the custom map at varying scales. The JSON code for the map can be found [here](/CustomGoogleMapCode.json). 
 
-![BikePghMap_Screenshot1](BikePgh_Screenshot1.png)
-![BikePghMap_Screenshot2](BikePgh_Screenshot2.png)
+![BikePghMap_Screenshot1](BikePghMap_Screenshot1.png)
+
+![BikePghMap_Screenshot2](BikePghMap_Screenshot2.png)
+
 ![BikePghMap_Screenshot3](BikePghMap_Screenshot3.png)
 
 Perhaps something I would discuss with the BikePgh team for the next iteration of the map is whether they would prefer the transit and bike infrastructure to be yellow, instead of the highways. Since yellow acts as an “accent” color in this scheme, the viewer's eyes are quickly drawn to the yellow elements. Since BikePgh advocates for better bike (and transit) infrastructure, perhaps, they would prefer viewer’s eyes to be drawn to the bike/transit infrastructure instead of the highways. I choose yellow for highways in this version purely for aesthetic reasons, but I would love to integrate the mission of the organization with the design in future versions of the map
