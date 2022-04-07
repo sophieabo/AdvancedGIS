@@ -1,4 +1,4 @@
-In this exercise, I tried creating custom sytles in Mapbox. I was very impressed by the cartogram feature. It is so easy to use! Here I did a series of basemaps, based on different flower color schemes. While I only completed some inital color custimization on these maps, the custimization options are limitless! See the maps and inspiration below.
+In this exercise, I tried creating custom sytles in Mapbox. I was very impressed by the cartogram feature. It is so easy to use! Here I did a series of basemaps, based on different flower color schemes. While I only completed some inital color custimization on these maps, the custimization options are limitless! Please see the maps and inspiration below.
 
 # Hydrangeas
 
