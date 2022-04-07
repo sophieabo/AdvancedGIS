@@ -12,6 +12,8 @@ Outside of school/work, I love biking, exploring Pittsburgh and other cities, an
 During this Advanced GIS class, I hope to further my GIS skills, learn new mapping techniques, and learn about other open source mapping platforms. I am very excited to maintain and build on my mapping and spatial analysis skills! 
 
 # Portfolio
-[Assignment 1: Custom Google Map for BikePgh](/CustomGoogleMap.md)
+[1. Custom Google Map for BikePgh](/CustomGoogleMap.md)
 
-[Assignment 2: Using ArcGIS Insights to Explore DEA Pain Pill Database](/PainPills.md) 
+[2. Using ArcGIS Insights to Explore DEA Pain Pill Database](/PainPills.md) 
+
+[3. Custom Styles in Mapbox](/Mapbox.md) 
