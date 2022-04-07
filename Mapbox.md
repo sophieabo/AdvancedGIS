@@ -25,7 +25,9 @@ Photo by <a href="https://unsplash.com/@mrrrk_smith?utm_source=unsplash&utm_medi
 ## Map
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/sophieabo/cl1pi4ncg000u14o6zucs8bwi.html?title=false&access_token=pk.eyJ1Ijoic29waGllYWJvIiwiYSI6ImNsMHJkemV6MzAyajUzZG9wOXo2MWdld3AifQ.TQuCzsaR2TFjGEFkCFGFmA&zoomwheel=false#11.99/40.73058/-73.98896" title="sunflowers.jpg" style="border:none;"></iframe>
 
-## Inspiration 
+## Inspiration  
+
+![sunflowers](sunflowers.png)
 
 Photo by <a href="https://unsplash.com/@ttrapani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Todd Trapani</a> on <a href="https://unsplash.com/s/photos/sunflower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
