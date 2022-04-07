@@ -7,6 +7,7 @@ In this exercise, I tried creating custom sytles in Mapbox. I was very impressed
 
 ## Inspiration 
 
+![Hyrdangeas](Hydrangea.png)
 
 Photo by <a href="https://unsplash.com/@mrrrk_smith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John-Mark Smith</a> on <a href="https://unsplash.com/s/photos/tulips?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
