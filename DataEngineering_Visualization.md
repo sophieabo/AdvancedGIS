@@ -1,4 +1,4 @@
-# Data Engineering and Visualization Tutorial
+# Data Engineering and Visualization Tutorials
 
 In this learning module, I completed ESRI's "Perform Data Engineering Tasks" and "Explore Data Using Data Visualization Techniques" Spatial Data Science MOOC tutorials.
 
