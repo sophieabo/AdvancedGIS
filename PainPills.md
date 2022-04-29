@@ -13,4 +13,8 @@ The resulting map effectively illustrates the flow of pain pills to the pharmaci
 
 Overall, I was excited by how intuitive ArcGIS Insights was to use for this analysis. I often felt like I could anticipate the necessary actions to complete a step, before reading the instructions in the tutorial. I was especially impressed by ArcGIS Insights’ default of creating a link map between two sets of geocoded addresses. I do not know how to create a link map in ArcGIS Pro. The “Enrich Data” function was also super cool - you can easily bring in other publicly available data to provide context and further analysis. I also enjoyed that I was able to use the online version of ArcGIS Insights to complete the same sophisticated analysis that I would only be able to theoretically complete on a desktop version of ArcGIS Pro. However, this exercise illustrated the difficulties that one would encounter when pulling together various publicly available datasets and trying to pair, aggregate, and analyze them geospatially. This is a challenge regardless of what software you decide to use. 
 
+For an comparison of ArcGIS Pro and ArcGIS Insights, please review the slides below.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0mFM5pMymPlJPby1AEjgxX08dC31PAjIv2Ai6b1TuLTcsLxpGYVdYeX-kk5KbKgle5abQdTn1jOyu/embed?start=false&loop=true&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Back to the AdvancedGIS homepage](/README.md)
