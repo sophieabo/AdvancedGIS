@@ -16,7 +16,7 @@ During this Advanced GIS class, I hope to further my GIS skills, learn new mappi
 
 [2. Using ArcGIS Insights to Explore DEA Pain Pill Database](/PainPills.md) 
 
-[3.Data Engineering and Visualization Tutorial]/(DataEngineering_Visualization.md)
+[3.Data Engineering and Visualization Tutorial](/DataEngineering_Visualization.md)
 
 [4. Custom Styles in Mapbox](/Mapbox.md) 
 
