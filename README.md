@@ -18,7 +18,7 @@ During this Advanced GIS class, I hope to further my GIS skills, learn new mappi
 
 [3. Data Engineering and Visualization Tutorial](/DataEngineering_Visualization.md)
 
-[4. Prediction Model Tutorial] (/PredictionModel.md)
+[4. Prediction Model Tutorial](/PredictionModel.md)
 
 [5. Custom Styles in Mapbox](/Mapbox.md) 
 
