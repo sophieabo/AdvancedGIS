@@ -1,4 +1,4 @@
-# Prediction Models
+# Prediction Model and Build Balanced Zones Tutorials
 
 In this learning module, I completed ESRI’s “Create a Prediction Model” Spatial Data Science MOOC tutorial.
 
