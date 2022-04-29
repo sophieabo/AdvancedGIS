@@ -15,7 +15,7 @@ Overall, I was excited by how intuitive ArcGIS Insights was to use for this anal
 
 For an comparison of ArcGIS Pro and ArcGIS Insights, please review the slides below.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0mFM5pMymPlJPby1AEjgxX08dC31PAjIv2Ai6b1TuLTcsLxpGYVdYeX-kk5KbKgle5abQdTn1jOyu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0mFM5pMymPlJPby1AEjgxX08dC31PAjIv2Ai6b1TuLTcsLxpGYVdYeX-kk5KbKgle5abQdTn1jOyu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 [Back to the AdvancedGIS homepage](/README.md)
