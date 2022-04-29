@@ -17,4 +17,5 @@ For an comparison of ArcGIS Pro and ArcGIS Insights, please review the slides be
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0mFM5pMymPlJPby1AEjgxX08dC31PAjIv2Ai6b1TuLTcsLxpGYVdYeX-kk5KbKgle5abQdTn1jOyu/embed?start=false&loop=true&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+
 [Back to the AdvancedGIS homepage](/README.md)
