@@ -16,7 +16,7 @@ This project explored the following questions:
 - What is the distribution of EV charging station ownership (public or private)? 
 - How many charging stations are there per number of electric vehicles in each state?
 
-Please explore the dashboard embedded below or visit this link. 
+Please explore the dashboard embedded below or visit this [link](https://insights.arcgis.com/index.html#/view/699751e60e064423991e6167814c3716).
 
 <iframe src="https://insights.arcgis.com/index.html?rsource=https%3A%2F%2Fwww.esri.com%2Fen-us%2Farcgis%2Fproducts%2Farcgis-insights%2Fsign-in#/embed/6bd6c6fc9e3440978b43465f8575afca" width="960" height="960" frameborder="0"></iframe>
 
